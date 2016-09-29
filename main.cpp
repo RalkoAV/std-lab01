@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+// хря свеамюъ опнцпюл
 int main()
 {
  int num1,num2,summ,razn;
